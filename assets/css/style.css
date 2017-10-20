@@ -18,22 +18,20 @@ header {
 	text-align:center;
 	color: #ffffff;
 	font-size:20px;
-	font-weight:bold;
-	font-family: Times New Roman;
+	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .links {
 	float: right;
 	padding: 20px;
 }
 a {
-	font-family:Arial;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	text-decoration: none;
 }
 h1 {
 	color:#4aaaa5;
 	font-size:28px;
-	font-weight:bold;
 	padding:20px;
 	border-bottom:thick solid #dddddd; 
 }
@@ -91,7 +89,6 @@ h2 {
 	text-align:center;
 	border-bottom:thin solid #cccccc;
 	color:#4aaaa5;
-	font-weight:bold;
 }
 p {
 	color:#777777;
@@ -149,7 +146,6 @@ label {
 	position:absolute;
 	background: #4aaaa5;
 	text-align:center;
-	font-weight:bold;
 	font-size:18px;
 }
 .title-bar-1 {
