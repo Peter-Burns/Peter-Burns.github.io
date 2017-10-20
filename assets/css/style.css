@@ -42,7 +42,6 @@ h1 {
 body {
 	position:relative;
 	clear: both;
-	overflow-y: scroll;
 	background-image: url("../images/intersection.png");
 }
 article {
