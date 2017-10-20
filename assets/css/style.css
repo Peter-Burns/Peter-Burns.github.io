@@ -41,7 +41,7 @@ body {
 	position:relative;
 	clear: both;
 	overflow-y: scroll;
-	background-image: url("../images/vintage-concrete.png");
+	background-image: url("../images/intersection.png");
 }
 article {
 	width:610px;
@@ -61,11 +61,12 @@ footer {
 	border-top: thick solid #4aaaa5;
 	text-align:center;
 	padding: 20px;
+	margin-top:60px;
 	color: #80878e;
 }
 section {
 	margin:20px auto 20px;
-	min-height: calc(100vh - 103px);
+	min-height: calc(100vh - 53px);
 	width:960px;
 }
 #profile {
