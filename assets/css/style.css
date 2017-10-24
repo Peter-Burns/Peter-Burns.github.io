@@ -320,10 +320,10 @@ a:hover {
   	float:none;
   }
    section {
-  	width:500px;
+  	width:360px;
   }
   article{
-  	width:480px;
+  	width:340px;
   	float:none;
   	padding-bottom:40px;
   	margin-bottom:20px;
@@ -374,6 +374,6 @@ a:hover {
 	text-align:center;
 	font-size:18px;
 	top:-70px;
-	left: 140px;
+	left: 70px;
 }
 }
